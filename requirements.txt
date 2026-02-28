@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+healpy
+pymaster
+torch
+sbi
+DeepSphere
